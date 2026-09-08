@@ -4,6 +4,7 @@ API RESTful desenvolvida em **Python** utilizando **FastAPI** e **SQLAlchemy**, 
 
 O projeto aplica conceitos de **Arquitetura Limpa**, **Clean Code**, **ORM**, validação de dados e tratamento padronizado de erros.
 
+Link para o GITHUB: https://github.com/Pedro-Gabriel03/Atividade---Desenvolvimento-de-API-Backend
 ---
 
 ## 🎯 Objetivo
