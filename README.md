@@ -661,12 +661,3 @@ A aplicação possui as seguintes regras:
 
 ---
 
-# 👨‍💻 Autor
-
-Projeto desenvolvido como atividade prática de desenvolvimento de APIs RESTful.
-
-**Projeto:** StudyManager API
-
-**Tecnologias:** Python, FastAPI, SQLAlchemy e SQLite.
-
----
