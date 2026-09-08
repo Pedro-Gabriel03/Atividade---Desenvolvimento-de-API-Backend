@@ -159,7 +159,7 @@ Também existe uma restrição que impede que um usuário seja matriculado duas 
 Abra o terminal na pasta do projeto:
 
 ```bash
-cd *pasta_do_projeto*
+cd Atividade---Desenvolvimento-de-API-Backend-main
 ```
 
 ---
