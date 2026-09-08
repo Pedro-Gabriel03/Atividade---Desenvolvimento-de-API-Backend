@@ -158,7 +158,7 @@ Também existe uma restrição que impede que um usuário seja matriculado duas 
 Abra o terminal na pasta do projeto:
 
 ```bash
-cd atividade-vinicius2
+cd *pasta_do_projeto*
 ```
 
 ---
